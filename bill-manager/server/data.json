@@ -1,0 +1,60 @@
+{
+    "ka": [
+        {
+            "type": "pay",
+            "money": -99,
+            "date": "2022-10-24 10:36:42",
+            "useFor": "drinks",
+            "id": 1
+        },
+        {
+            "type": "pay",
+            "money": -150,
+            "date": "2022-11-01 14:20:00",
+            "useFor": "groceries",
+            "id": 2
+        },
+        {
+            "type": "income",
+            "money": 2000,
+            "date": "2022-11-05 09:00:00",
+            "useFor": "salary",
+            "id": 3
+        },
+        {
+            "type": "pay",
+            "money": -75,
+            "date": "2022-11-10 18:30:00",
+            "useFor": "transportation",
+            "id": 4
+        },
+        {
+            "type": "pay",
+            "money": -200,
+            "date": "2022-11-15 12:45:00",
+            "useFor": "entertainment",
+            "id": 5
+        },
+        {
+            "type": "income",
+            "money": 500,
+            "date": "2022-11-20 16:00:00",
+            "useFor": "freelance",
+            "id": 6
+        },
+        {
+            "type": "pay",
+            "money": -120,
+            "date": "2022-11-25 11:15:00",
+            "useFor": "utilities",
+            "id": 7
+        },
+        {
+            "type": "pay",
+            "money": -50,
+            "date": "2022-11-30 08:00:00",
+            "useFor": "coffee",
+            "id": 8
+        }
+    ]
+}
